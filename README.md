@@ -1,6 +1,8 @@
 # Economic Data Analysis for Future Forecasting
 
 ## Overview
+
+This Python project provides a Graphical User Interface (GUI) application for analyzing and visualizing global economy indicators data. It allows users to perform various data manipulation tasks, statistical analysis, and generate insightful visualizations.
 This project aims to analyze historical economic data from various countries spanning from 1970 to 2021 to make educated guesses about their future economic trends. By examining key economic indicators such as GDP, GNI, population, exchange rates, and trade data (exports and imports), the project seeks to enhance understanding of past economic performance and provide insights into potential future scenarios.
 
 ## Objectives
